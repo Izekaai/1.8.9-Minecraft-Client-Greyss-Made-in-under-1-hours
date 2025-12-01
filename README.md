@@ -12,8 +12,11 @@ Drop the `.jar` in your `mods` folder and launch Minecraft 1.8.9.
 
 Join the community on Discord: [https://discord.gg/vBBgtekPvz](https://discord.gg/vBBgtekPvz)
 
-[Greyss 1.8.9 Client .jar](https://github.com/Izekaai/Greyss-1.8.9-Client/releases/download/1.0/Greyss.jar)
-
+<p align="center">
+  <a href="https://github.com/Izekaai/Greyss-1.8.9-Client/releases/download/1.0/Greyss.jar" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Greyss-blue?style=for-the-badge&logo=download" alt="Download">
+  </a>
+</p>
 
 
 
