@@ -2,7 +2,7 @@
 
 Drop the `.jar` in your `mods` folder and launch Minecraft 1.8.9.  
 
-⚠️ **Note:** KillAura and Scaffold are detectable on most servers. Use responsibly.  
+⚠️ **Note:** KillAura and Scaffold are detectable on most servers. Scaffold is still in beta and may be unstable. Use at your own risk.
 
 **Keybinds:**  
 - **X** – Toggle KillAura  
