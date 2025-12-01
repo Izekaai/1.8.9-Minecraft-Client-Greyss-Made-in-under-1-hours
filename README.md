@@ -9,3 +9,11 @@ Drop the `.jar` in your `mods` folder and launch Minecraft 1.8.9.
 - **V** – Hold Scaffold  
 - **K** – Toggle ESP  
 - **'** – Open GUI
+
+Join the community on Discord: [https://discord.gg/vBBgtekPvz](https://discord.gg/vBBgtekPvz)
+
+
+
+
+
+
